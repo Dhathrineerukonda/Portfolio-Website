@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Dhathri Neerukonda",
-  title: "Full Stack Developer",
+  title: "Software Developer",
   email: "dhathrineerukonda@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "Dhathrineerukonda",
+  instagram: "_.mis._.innocent._",
+  linkedIn: "dhathri-neerukonda-20b69424b",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
